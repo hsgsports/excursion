@@ -1,0 +1,28 @@
+* {
+  font-family: Verdana;
+}
+h1 {
+color: white;
+font-style: normal;
+text-align: center;
+font-size: 50x;
+}
+h3 {
+color: Aquamarine;
+text-align: center;
+font-size: 16x;
+}
+body {
+background-color: black;
+}
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+.tent {
+  color: gray;
+  font size: 21px;
+  text-align: center;
+}
