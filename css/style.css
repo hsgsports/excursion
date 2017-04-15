@@ -26,3 +26,11 @@ background-color: black;
   font size: 21px;
   text-align: center;
 }
+a:link {
+    color: Aquamarine;
+  }
+  .copyright {
+    color: gray;
+    font size: 21px;
+    text-align: right;
+  }
